@@ -29,7 +29,7 @@ import 'viewerjs/dist/viewer.css'
 Install from GitHub via NPM
 
 ```bash
-npm install v-viewer
+npm install v-viewer-shangban
 ```
 
 ## Usage
